@@ -1,6 +1,6 @@
 import type { Options } from 'prettier';
 
-export const config: Options = {
+const config: Options = {
   // https://prettier.io/docs/en/options
   printWidth: 80,
   tabWidth: 2,
@@ -16,3 +16,5 @@ export const config: Options = {
   endOfLine: 'lf',
   singleAttributePerLine: true
 };
+
+export = config;
