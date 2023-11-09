@@ -1,0 +1,19 @@
+{
+  "name": "@jamesmcdoniel/prettier-config",
+  "version": "1.0.1",
+  "description": "My personal Prettier configuration",
+  "license": "MIT",
+  "author": {
+    "name": "James McDoniel",
+    "url": "https://github.com/JamesMcDoniel"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesMcDoniel/prettier-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JamesMcDoniel/prettier-config/issues"
+  },
+  "homepage": "https://github.com/JamesMcDoniel/prettier-config#readme",
+  "main": "index.js"
+}
