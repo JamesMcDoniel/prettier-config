@@ -1,0 +1,8 @@
+{
+  "parserOptions": {
+    "target": "ES6",
+    "module": "CommonJS",
+    "rootDir": "src",
+    "outDir": "dist"
+  }
+}
